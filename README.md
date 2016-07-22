@@ -1,7 +1,8 @@
 ![alt tag](http://thingiverse-production-new.s3.amazonaws.com/renders/15/1d/7d/65/77/08c1811b87a889f8c6ffa417e6ac3a2d_preview_featured.jpg)
-Modified printer from Tower Simple XL by VasterLabs.
 
-Changes:
+#Modified printer from Tower Simple XL by VasterLabs.
+
+##Changes:
 
 - Larger working area 20x15x14cm
 
@@ -15,12 +16,12 @@ Changes:
 
 
 
-Laser cut on 6mm polywood.
+##Laser cut on 6mm polywood.
 
 - Only TowerXP_stab_3mm_polywood.dxf cut on 3mm polywood
 
 
-Need printed part:
+##Need printed part:
 
 - 4x http://www.thingiverse.com/thing:1303309
 
@@ -31,7 +32,7 @@ Need printed part:
 
 
 
-List of need part :
+##List of need part :
 
 - M3 10mm screws 29
 
@@ -82,5 +83,5 @@ List of need part :
 - hotend Lama3D
 
 
-Part BYQventTower by Krzysztof Kossak
+##Part BYQventTower by Krzysztof Kossak
 
