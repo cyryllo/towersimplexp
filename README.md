@@ -4,36 +4,32 @@ https://www.youtube.com/watch?v=_azXdaGIpJ8
 
 Changes:
 
-Larger working area 20x15x14cm
+-Larger working area 20x15x14cm
 
-Wider casing (increased stabilization, more space for larger cooling)
+-Wider casing (increased stabilization, more space for larger cooling)
 
-New casing for electronics (for ramps + LCD + Arduino)
+-New casing for electronics (for ramps + LCD + Arduino)
 
-Leadscrew T10 for the Z axis (Optional T8)
+-Leadscrew T10 for the Z axis (Optional T8)
 
-New holder for Extruder (for lama3d)
+-New holder for Extruder (for lama3d)
 
 
 
 Laser cut on 6mm polywood.
 
-Only TowerXP_stab_3mm_polywood.dxf cut on 3mm polywood
+- Only TowerXP_stab_3mm_polywood.dxf cut on 3mm polywood
 
 
 Need printed part:
 
-4x http://www.thingiverse.com/thing:1303309
+- 4x http://www.thingiverse.com/thing:1303309
 
-4x http://www.thingiverse.com/thing:1263686
+- 4x http://www.thingiverse.com/thing:1263686
 
-1x http://www.thingiverse.com/thing:199414
+- 1x http://www.thingiverse.com/thing:199414
 
 
-
-Optional:
-
-http://www.thingiverse.com/thing:946102
 
 
 List of need part :
